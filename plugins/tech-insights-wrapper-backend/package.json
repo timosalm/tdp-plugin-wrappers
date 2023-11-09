@@ -1,5 +1,5 @@
 {
-  "name": "@mstergianis/plugin-tech-insights-wrapper-backend",
+  "name": "@timosalm/plugin-tech-insights-wrapper-backend",
   "version": "1.0.0",
   "main": "src/index.ts",
   "types": "src/index.ts",
